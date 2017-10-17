@@ -1,0 +1,15 @@
+{
+  "name": "passport-cubexus-oauth2",
+  "version": "1.0.0",
+  "description": "Passport strategies for authenticating with Cubexus using OAuth 2.0.",
+  "main": "./lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "passport-oauth2": "^1.4.0",
+    "request": "^2.83.0"
+  }
+}
